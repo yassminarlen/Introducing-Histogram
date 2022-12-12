@@ -7,3 +7,4 @@
 3. Broadband Access (Broadband Access is the percentage of households with a broadband internet connection through a subscription) is a variable included in the *2022 County Health Rankings* and also could be displayed as a histogram. 
 
 Start by searching *broadband access* on the search bar highlighted in the upper right hand corner. Drag and drop the second highlighted variable to the Colums row. On the "Show Me" feature select the highlighted histogram as the display option. 
+![Selecting Histogram](https://github.com/yassminarlen/Introducing-Histogram/blob/main/Selecting%20Histogram.png?raw=true) 
