@@ -15,6 +15,9 @@ Drag and drop the second highlighted variable to the Colums row. On the "Show Me
 
 ![drop down menu](https://github.com/yassminarlen/Introducing-Histogram/blob/main/image%20(1).png?raw=true) ![pop-up](https://github.com/yassminarlen/Introducing-Histogram/blob/main/bin%20box.png?raw=true)
 
-6. Take notice of the blue highlighted x-axis, left click it for the pop-up menu to appear, then click the higlighted option "Edit Axis...".
+6. Start by taking notice of the blue highlighted x-axis, left click it for the pop-up menu to appear, then click the higlighted option "Edit Axis...".
 ![Edit Axis](https://github.com/yassminarlen/Introducing-Histogram/blob/main/x-axis.png?raw=true)
+
 Once you click it, a pop-up menu will appear click on the highlighted option "Tick Marks", then select the "Fixed" option for both fields , *Major Tick Marks* will modify the numbers displayed on the x-axis and *Minor Tick Marks* will modify the numbers displayed on the y-axis.
+
+![Tick marks](https://github.com/yassminarlen/Introducing-Histogram/blob/main/tick%20marks.png?raw=true)
