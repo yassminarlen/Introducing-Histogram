@@ -12,4 +12,4 @@ Drag and drop the second highlighted variable to the Colums row. On the "Show Me
 ![bin width](https://github.com/yassminarlen/Introducing-Histogram/blob/main/Bin%20Wid.png?raw=true) 
 
 Click the drop down option. Next select "Edit...", when the pop-up appears change the number in the highlighted box to modify the bin width. keep in mind that change the width of the bins changes the amount max value of data/min value of data.
-![drop down menu](<img src="https://github.com/yassminarlen/Introducing-Histogram/blob/main/drop%20down%20menu.png?raw=true)
+![drop down menu](https://github.com/yassminarlen/Introducing-Histogram/blob/main/image%20(1).png?raw=true)
