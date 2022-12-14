@@ -16,3 +16,5 @@ Drag and drop the second highlighted variable to the Colums row. On the "Show Me
 ![drop down menu](https://github.com/yassminarlen/Introducing-Histogram/blob/main/image%20(1).png?raw=true) ![pop-up](https://github.com/yassminarlen/Introducing-Histogram/blob/main/bin%20box.png?raw=true)
 
 6. Take notice of the blue highlighted x-axis, left click it for the pop-up menu to appear, then click the higlighted option "Edit Axis...".
+!Edit Axis(https://github.com/yassminarlen/Introducing-Histogram/blob/main/x-axis.png?raw=true)
+
