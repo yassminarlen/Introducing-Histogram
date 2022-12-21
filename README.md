@@ -21,3 +21,17 @@ Drag and drop the second highlighted variable to the Colums row. On the "Show Me
 Once you click it, a pop-up menu will appear click on the highlighted option "Tick Marks", then select the "Fixed" option for both fields , *Major Tick Marks* will modify the numbers displayed on the x-axis and *Minor Tick Marks* will modify the numbers displayed on the y-axis.
 
 ![Tick marks](https://github.com/yassminarlen/Introducing-Histogram/blob/main/tick%20marks.png?raw=true)
+
+## More on Broadband Access
+ In 2020, the bipartisan Broadband DATA act was passed by the federal government to improve broadband access and speeds by 2025. Yet, an estimated 19 million Americans lack access to reliable broadband internet. On average, half of US counties experience speeds below the federally defined broadband standard (25 Mbps down/3 Mbps up).[ However, broadband access is not an issue exclusive to rural areas (Broadband Access*, n.d.).
+ 
+ -Broadband access is required to efficiently support employment opportunities, workforce development, education, health care (telehealth), and access to/enrollment in state and federal programs (e.g. SNAP). Broadband access can foster social connectedness, particularly among older populations, reducing the burden of social isolation, strengthening community support, and decreasing loneliness (Broadband Access*, n.d.).
+ 
+ -Barriers to broadband access could be due to insufficient infrastructure, cost, or personal interest (e.g. older adults are less likely to purchase home internet), and this metric is unable to untangle 
+these specific barriers (Broadband Access*, n.d.).
+
+### References
+>Broadband Access*. (n.d.). County Health Rankings & Roadmaps. https://www.countyhealthrankings.org/explore-health-rankings/county-health-rankings-model/health-factors/physical-environment/housing-and-transit/broadband-access?year=2022
+
+
+
